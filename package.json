@@ -1,0 +1,32 @@
+{
+    "name": "panda",
+    "description": "A customized Ghost theme by Digitalz.",
+    "version": "0.1.0",
+    "engines": {
+        "ghost": ">=0.9.0 <1.0.0"
+    },
+    "license": "MIT",
+    "author": {
+        "name": "Leonardo BALLAND",
+        "email": "balland.leonardo@outlook.fr",
+        "url": "https://leonardoballand.com"
+    },
+    "gpm": {
+        "type": "theme",
+        "categories": [
+            "Minimal",
+            "Personal Blogs",
+            "Responsive"
+        ]
+    },
+    "keywords": [
+        "ghost",
+        "theme"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/digitalz4k/Panda.git"
+    },
+    "bugs": "https://github.com/digitalz4k/Panda/issues",
+    "contributors": "https://github.com/digitalz4k/Panda/graphs/contributors"
+}
